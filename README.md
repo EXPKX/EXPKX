@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EXPKX
-- There are my Email：
+- These are my email addresses：
 - expkx666666@outlook.com
 - expkx666666@163.com
