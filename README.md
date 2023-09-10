@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EXPKX
+- I am currently interested in system encapsulation technology and virtualization technology
 - These are my email addresses：
 - expkx666666@outlook.com
 - expkx666666@163.com
-- I have a partner,@Kalizhx
+- This is my good friend,@zhxkalil
