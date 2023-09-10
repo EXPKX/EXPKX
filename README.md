@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EXPKX
-- I am currently interested in system encapsulation technology and virtualization technology
-- I am currently studying virtualization technology and learning about the Windows system
-- These are my email addresses：
+-👋 Hi, I’m @EXPKX
+-👀 I am currently interested in system encapsulation technology and virtualization technology
+-🌱 I am currently studying virtualization technology and learning about the Windows system
+- 📪These are my email addresses：
 - expkx666666@outlook.com
 - expkx666666@163.com
 - This is my good friend,@zhxkalil
